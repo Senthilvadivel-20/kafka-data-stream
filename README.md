@@ -1,6 +1,6 @@
 # kafka-data-stream
 
-### Before start the process, ensure that zookeeper and kafka process are up and running.
+### Before starting the process, ensure that zookeeper and kafka process are up and running.
 
 #### Start zookeeper
 
